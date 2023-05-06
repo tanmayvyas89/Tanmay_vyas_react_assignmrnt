@@ -20,8 +20,8 @@ function Main() {
                 <div className="container">
                     <div className="row">
                         {
-                            isLoading.map((item,index)=>{
-                                
+                            isLoading.map((item, index) => {
+
                             })
                         }
                     </div>
